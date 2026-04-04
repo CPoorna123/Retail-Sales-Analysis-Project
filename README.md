@@ -12,7 +12,7 @@ This project demonstrates **end-to-end data analysis workflow**, starting from d
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard]
+
 <img width="1345" height="762" alt="Screenshot 2026-03-28 205907" src="https://github.com/user-attachments/assets/31d466a5-11ce-4445-a101-3436fbd9d21b" />
 
 
