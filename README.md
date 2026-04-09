@@ -62,3 +62,11 @@ This project demonstrates **end-to-end data analysis workflow**, starting from d
 Chinthapoodi Poorna Chandra
 
 Aspiring Data Analyst | Python | Excel | Power BI
+
+## Contact
+
+If you would like to discuss this project or opportunities in data analytics:
+
+Email: cpoorna964@gmail.com  
+LinkedIn: https://www.linkedin.com/in/c-poorna-b68aa0356  
+GitHub: https://github.com/CPoorna123
